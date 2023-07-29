@@ -1,0 +1,12 @@
+ this is for testing
+
+
+You are the Chief Information Security Officer (CISO) for the company “EasyTravel”. This company is headquartered in Dublin, Ireland and has offices in Brussels, Madrid, and Athens, and has over 500 employees and plans to grow to 1000 within the next three years. The company is an online travel agency for lodging reservations and other travel products. The company enable properties to receive payments over the internet. Thus, it manages sensitive payment information and other personal data. (Please consider this context when preparing your answers).
+The board is extremely nervous about your proposed budget for countering cyber threats. They would like a report and a brief presentation on a specific threat that could harm the company.
+Your project is to put together a report and present your thoughts at a board meeting (the presentation is an executive summary of your report). The board members are particularly interested in:
+1.	Discuss one specific threat – What is it?, What can it do?, What is the probability of the threat occurring (under what conditions)? 						
+2.	Discuss four recent high-profile attacks/exploits related to this threat – What was compromised?, How was the attack conducted (threat vector/timeline of what happened)?, What were the consequences? 
+3.	Discuss three security controls (one of each type operational, administrative, physical if possible) that can be used to address/mitigate such threat - What is this control?, How does it work?, What kind of threat(s) it can help prevent/mitigate? 
+The security controls that we would like to discuss, and implement are as follows:
+Operational: (principle of least privileges)
+Providing limited information to the employees as per the requirement and performing regular audits to ensure that proper documents and track records are maintained to ensure only people who need to view have the appropriate access. Software operating procedure documents, Risk documents, user account access document along with their privileges are maintained accordingly. Quarterly audits are performed to ensure if there is any discrepancy in the information stored. Ensuring system, application hardening is in place so that there is no alter in the data or (audit, user, system, security) logs.
